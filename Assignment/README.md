@@ -30,8 +30,7 @@ The team from Relaxr is back...again! They want their page to be more interactiv
 
 ###Technical Requirements 
 
-- Prevent a form submission with the ```event.preventDefault()``` function
-- Use the ```$.ready()``` handler to delay your code from executing until all DOM assets have been loaded
+- Add jQuery to your site, and create a JavaScript file to write your jQuery in, and include both files properly on your page.
 - Select the appropriate DOM elements with CSS selectors upon a user's click using the ```$.click()``` handler
 - If a user clicks "Read More" on the primary column:
 
@@ -62,11 +61,18 @@ The team from Relaxr is back...again! They want their page to be more interactiv
 
 ---
 
-###Evaluation / Submission
+###Selector Fun Part2
 
+Follow the instructions in the `main.js` file in the `select_fun_part2` folder, or in the `instructions.txt` file to make selections and manipulate the DOM using JavaScript and jQuery.
 
-Students should use the same folder and GitHub repository as the previous project ("homework-landingpage"). When ready for evaluation they should push their code to that repository and notify the instructional team via slack. Instructional team should evaluate against the solution code and the student's use of technical elements. They will provide a numeric grade on a scale: does not meet expectations (0); meets expectations (1); exceeds expectations (2). **Note**: If bullets have child bullets, grade the child bullets and not the parent bullet belonging to the child. The maximum possible score on this assignment is 16/16. Bonus materials are completely optional.
+---
 
 ###Final Project Milestone 1
 
-By this week, you should have created and handed in wireframes that sketch out your idea and basic design for a final project.
+**[View the Final Project Requirements/Guide](https://github.com/GA-Chicago-FEWD6/Final_Project/blob/master/final_project_requirements.md)**
+
+Over the weekend write down a proposal for your final project — come up with a theme, a product, or an idea for what you would like your site to be about. Try to make it something that you're personally interested in, and ideally something that you can continue to work on after the class. Check out [General Assembly's Gallery](https://gallery.generalassemb.ly/FEWD?metro=) for examples of former students' projects.
+
+Either sketch, or build a wireframe using a graphics program or something like [Wireframe.cc](https://wireframe.cc/) to submit next week for review. I'm just looking for a low-fidelity outline of the structure of the site, annotated with notes on features and functionality — these are just first-draft ideas, so I expect they will change and adapt in the coming weeks — no worries! If you're not familiar with the idea of wireframing, [here](http://webdesign.tutsplus.com/articles/a-beginners-guide-to-wireframing--webdesign-7399) is an article that might help you out.
+
+**Note**: There is no _required_ amount of pages — it all depends on the scope of what you want to do with your site and how complex each page will be. Be realistic with your goals — it's okay to propose a final project that would require more work than fits within the scope of this class, just think about and discuss which parts or features of the full project you would like to complete for the final project.
