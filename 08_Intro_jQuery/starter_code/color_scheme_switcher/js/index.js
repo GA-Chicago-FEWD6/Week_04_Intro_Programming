@@ -1,9 +1,15 @@
-document.getElementById('grayButton').onclick = switchGray;
-document.getElementById('whiteButton').onclick = switchWhite;
+
+alert('Hello')
+// document.getElementById('grayButton').onclick = switchGray;
+$('#grayButton').on('click', switchGray);
+// document.getElementById('whiteButton').onclick = switchWhite;
+$('#whiteButton').on('click', switchWhite);
 
 function switchGray() {
-  document.body.style.backgroundColor = 'gray';
-  document.body.style.color = 'white';
+ // document.body.style.backgroundColor = 'gray';
+  $('body').css('background-color', 'gray');
+//  document.body.style.color = 'white';
+  $('body').css('color', 'white');
 }
 
 function switchWhite() {
