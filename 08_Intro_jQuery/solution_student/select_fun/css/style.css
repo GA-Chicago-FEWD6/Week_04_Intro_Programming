@@ -28,6 +28,8 @@ body {
   -webkit-font-smoothing: antialiased;
 }
 
+
+
 li {
   list-style: none;
 }
@@ -178,5 +180,6 @@ button {
 /* Your CSS goes here!
    ================================================================ */
 .fun {
-  /* Add your styles here! background-color and color for fonts (and other styles if you'd like!) */
+  background-color: #2C552C;
+  color: white;
 }
