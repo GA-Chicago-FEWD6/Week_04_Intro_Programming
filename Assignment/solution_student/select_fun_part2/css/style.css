@@ -115,3 +115,17 @@ footer {
 /******************************************
 /* ADDITIONAL STYLES
 /*******************************************/
+
+.new {
+     background: #98ff98;
+     color: #ff69b4;
+}
+
+.spanUpdate {
+     color: #c67171;
+}
+
+.rowArticleUpdate {
+     color: #ffffff;
+
+}
