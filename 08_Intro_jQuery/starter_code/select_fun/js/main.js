@@ -7,7 +7,7 @@
 // 1. Go to style.css and add a class called fun. Style that class with your choice of background-color and text color.
 
 // 2. Using jQuery, add the fun class to the elements with the class .box
-
+//$(".box").addClass("fun")
 
 // 3. When #box2 is clicked on
 	// a) Remove the crazy class from all the items with a class of .box

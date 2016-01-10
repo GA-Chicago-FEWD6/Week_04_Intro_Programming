@@ -111,7 +111,27 @@ footer {
      font-weight: bold;
      font-size: 24px;
 }
+.greenboxes {
+     background-color: #2C552C;
+     color: white;
+}
+.box3 {
+     background-color: #92CD57;
+     color: #F2AF23;
 
+}
+
+.articles {
+     background-color: #92CD57;
+}
+
+.articlefont{
+     color: #FAE600;
+}
+
+.row1font{
+     color: blue;
+}
 /******************************************
 /* ADDITIONAL STYLES
 /*******************************************/
