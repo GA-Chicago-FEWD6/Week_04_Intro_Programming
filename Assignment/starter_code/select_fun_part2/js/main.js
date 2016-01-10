@@ -40,9 +40,7 @@ $('#row2 article').css('color', 'green');
 
 // 10.	Select the h4 in #box11 and hide the span inside of #box11 using the .siblings() function
 
-//Missing a step here for #10
-
-$('#box11 h4').siblings('span');
+$('#box11 h4').siblings('span').hide();
 
 // 11.	Clicking on #box7 should hide the span within the h2
 
