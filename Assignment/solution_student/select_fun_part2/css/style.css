@@ -112,6 +112,23 @@ footer {
      font-size: 24px;
 }
 
+.yayjquery {
+     background-color: blue;
+     font-weight: bold;
+     color: white;
+}
+
+.span1 {
+     background-color: black;
+     font-weight: lighter;
+     color: white;
+     font-size: 28px;
+}
+
+.unique {
+     font-size: 15px;
+     color: purple;
+}
 /******************************************
 /* ADDITIONAL STYLES
 /*******************************************/
