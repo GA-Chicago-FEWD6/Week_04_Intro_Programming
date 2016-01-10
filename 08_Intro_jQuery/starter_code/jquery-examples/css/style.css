@@ -10,3 +10,8 @@
   transform: rotate(180deg);
   text-shadow: 10px 10px 10px yellow;
 }
+
+h1 {
+	display: none;
+	cursor: pointer;
+}

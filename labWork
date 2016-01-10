@@ -1,0 +1,47 @@
+thermostat
+room temp
+heat
+cool
+desired temp
+
+user set desired temp 
+
+theremostat assess (get) current room temp constantly (loop)
+
+if room temp is below desired temp
+	turn heat on
+
+if room temp is above desired temp
+	turn heat off
+
+
+
+
+
+
+Goal: Have two players engage in simulated Rock, Paper, Scissors and produce a single winner
+
+Variables:
+
+Player One (simulator)
+Player Two 
+Rock
+Paper
+Scissors
+
+Script:
+
+1. Player one randomly selects choice of rock, paper or scissors 
+2. Player two to selects choice of rock, paper or scissors
+3. Record each players selection 
+4. Display selection
+5. If selections are identical, indicate tie
+    then continue from step three
+6.     If selection of rock beats a selection of scissors 
+        then rock wins 
+    If selection of scissors beats a selection of paper
+        then scissors wins
+    If selection of paper beats a selection of rock
+        then paper wins
+7. Display winner
+8. End game

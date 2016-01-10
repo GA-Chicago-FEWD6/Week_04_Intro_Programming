@@ -35,3 +35,8 @@ p {
 #whiteButton {
   background: white;
 }
+
+.gray-scheme {
+  background-color: gray;
+  color: white;
+}
