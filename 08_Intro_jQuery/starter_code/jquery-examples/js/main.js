@@ -49,6 +49,9 @@
 
 // .on('click')
 
+$('h1').on('click', function() {
+  $('h1').slideToggle(1000);
+});
 
 // Others: 
 // .on('focus')
