@@ -1,0 +1,17 @@
+.special {
+  color: red;
+  font-size: 24px;
+  font-style: bold;
+}
+
+.crazy {
+  color: purple;
+  display: inline-block;
+  transform: rotate(180deg);
+  text-shadow: 10px 10px 10px yellow;
+}
+
+h1 {
+	cursor: pointer;
+	display: none;
+}
